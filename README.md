@@ -1,4 +1,4 @@
-![Mod Preview](https://raw.githubusercontent.com/seedhollow/arknight-dlc/refs/heads/main/img/src.jpg?token=GHSAT0AAAAAADRSSUOZACRSEQOMKE5H4DKW2LMPYBQ)
+![Mod Preview](https://raw.githubusercontent.com/seedhollow/arknights-dlc/refs/heads/main/img/src.jpg)
 
 
 
